@@ -1,3 +1,4 @@
+
 name: Generate Snake
 
 on:
@@ -18,8 +19,7 @@ jobs:
         with:
           github_user_name: yvonepratt-cpu
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%238000ff&color_dots=%23161922,%230e4429,%23006d32,%2326a641,%2339d353
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v4
