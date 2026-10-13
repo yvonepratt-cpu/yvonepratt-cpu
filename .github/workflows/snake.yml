@@ -1,2 +1,33 @@
-outputs: |
-  dist/github-contribution-grid-snake.svg?color_snake=purple&palette=github-dark
+
+name: Generate Pink Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate pink snake with green contributions
+        uses: Platane/snk@v3
+        with:
+          github_user_name: yvonepratt-cpu
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23ff69b4&color_dots=%23e8fbe8,%23b7f7c1,%2374e89a,%2334c759,%230b7a3e
+
+      - name: Publish snake animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
