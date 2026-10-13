@@ -1,5 +1,5 @@
 
-<h2 align="center">🐍 My Pink Contribution Snake</h2>
+<h2 align="center">🐍 Eat All You Can </h2>
 
 <p align="center">
   <img
