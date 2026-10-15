@@ -1,3 +1,21 @@
+# Hiii Sawasdee (สวัสดี) 👋 I'm Yvone Brace
+
+Welcome to my GitHub profile! 💻
+
+I'm a Computer Science student at Northwest Samar State University. I'm learning programming, exploring new technologies, and improving my coding skills by building projects.
+
+### 🌱 About Me
+- 🎓 Computer Science student
+- 💻 Learning coding (peteks peteks only)
+- 🚀 Exploring new technologies
+- ♟️ I enjoy playing chess and watching movies
+- 🎬 I love action and horror movies
+- 📚 Always willing to learn something new
+
+### 🎯 My Goal
+My goal is to improve my programming skills, gain experience, and create useful projects as I grow. 
+
+Thanks for visiting my profile! 💗
 
 <h2 align="center">🐍 Eat All You Can </h2>
 
