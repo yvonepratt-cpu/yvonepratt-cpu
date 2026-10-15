@@ -1,11 +1,11 @@
 # Hello
 Sawasdee (สวัสดี)
-Konnichiwa
-Annyong haseyo
-Nǐ hǎo
-Bonjour👋 I'm Yvone Brace
+,Konnichiwa
+,Annyong haseyo
+,Nǐ hǎo
+,Bonjour👋 I'm Yvone Brace
 
-Welcome to my GitHub profile! 💻
+**Welcome to my GitHub profile!** 💻
 
 I'm a Computer Science student at Northwest Samar State University. I'm learning programming, exploring new technologies, and improving my coding skills by building projects.
 
@@ -16,9 +16,10 @@ I'm a Computer Science student at Northwest Samar State University. I'm learning
 - ♟️ I enjoy playing chess and watching movies
 - 🎬 I love action and horror movies
 - 📚 Always willing to learn something new
+- Yearner
 
 ### 🎯 My Goal
-My goal is to improve my programming skills, gain experience, and create useful projects as I grow. 
+My goal is to improve my programming skills, gain experience, and create useful projects as I grow. I want to graduate ASAP!
 
 Thanks for visiting my profile! 💗
 
