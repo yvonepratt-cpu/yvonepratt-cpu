@@ -1,8 +1,8 @@
 # Hello
 # Sawasdee (สวัสดี)
 # Konnichiwa
-# Annyong haseyo
-# Nǐ hǎo
+# Annyong Haseyo
+# Nǐ Hǎo
 # Bonjour👋 I'm Yvone Brace
 
 **Welcome to my GitHub profile!** 💻
